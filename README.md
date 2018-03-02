@@ -1,1 +1,1 @@
-# cnyecard
+# Chinese New Year ECard
